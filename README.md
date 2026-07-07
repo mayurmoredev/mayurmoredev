@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Mayur More Banner">
+</p>
 # 👋 Hi, I'm Mayur More
 
 ## 🚀 Full Stack Developer | CRM Developer | Digital Marketing Expert
