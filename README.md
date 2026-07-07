@@ -1,6 +1,13 @@
 <p align="center">
   <img src="./mayur-more-github-banner.png" alt="Mayur More Banner" width="100%">
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;CRM+Developer;Digital+Marketing+Expert;Freelancer;Open+to+Work" alt="Typing SVG" />
+  </a>
+</p>
+
 # 👋 Hi, I'm Mayur More
 
 ## 🚀 Full Stack Developer | CRM Developer | Digital Marketing Expert
