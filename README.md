@@ -8,6 +8,13 @@
   </a>
 </p>
 
+## 🛠️ Tech Stack
+  <p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,tailwind,postgres,mysql,git,github,docker,vscode,figma,aws" />
+
+</p>
+
 # 👋 Hi, I'm Mayur More
 
 ## 🚀 Full Stack Developer | CRM Developer | Digital Marketing Expert
