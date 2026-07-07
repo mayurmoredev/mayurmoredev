@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Mayur More Banner">
+  <img src="./mayur-more-github-banner.png" alt="Mayur More Banner" width="100%">
 </p>
 # 👋 Hi, I'm Mayur More
 
