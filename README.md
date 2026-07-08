@@ -26,9 +26,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mayurmoredev&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=mayurmoredev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 # 👋 Hi, I'm Mayur More
