@@ -50,6 +50,14 @@
 
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mayurmoredev&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
 # 👋 Hi, I'm Mayur More
 
 ## 🚀 Full Stack Developer | CRM Developer | Digital Marketing Expert
