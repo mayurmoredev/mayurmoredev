@@ -23,6 +23,14 @@
 
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mayurmoredev&theme=github-dark&hide_border=true"/>
+
+</p>
+
 # 👋 Hi, I'm Mayur More
 
 ## 🚀 Full Stack Developer | CRM Developer | Digital Marketing Expert
