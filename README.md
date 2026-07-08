@@ -15,6 +15,9 @@
 
 </p>
 
+<p align="center">
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -27,6 +30,24 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=mayurmoredev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mayurmore.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/mayurmoredev">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 </p>
 
 # 👋 Hi, I'm Mayur More
